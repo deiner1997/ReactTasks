@@ -1,0 +1,93 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.backgroundimg{
+  background-color: #0000007a;
+ /* background-image: url('http://www.anawalls.com/repic/image.php?src=http://www.anawalls.com/images/nature/winter-sky-stars-nature-night.jpg&h=800&w=1280');*/
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh; 
+  width: 100%;
+
+}
+
+.navigationcolor{
+  background-color: #e3f2fd;
+}
+.backgroundtransparent{
+  background-color: #14141585;
+}
+.greecolorback{
+  color: white;
+}
+.namecolor{
+  color: white;
+}
+.whitetitle{
+  color: white;
+}
+.imgavantica{
+  width: 110px; height: 30px
+}
+.App {
+  text-align: center;
+}
+.errText{
+  color: red;
+  font-weight: bold;
+}
+
+/*Form Login and SignUp*/
+.form-heading { color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+.panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #0e0e0e73 none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+
+.login-form  .btn.btn-primary {
+  background: #13454a none repeat scroll 0 0;
+  border-color: #4a5556;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background: #ff9900 none repeat scroll 0 0;
+}
+.back { text-align: left; margin-top:10px;}
+.back a {color: #444444; font-size: 13px;text-decoration: none;}
+#dropdowncolor {
+  background-color: #13454a;
+}
+.trasparentcolor {
+  background-color: #5f848aa3;
+  color: white;
+}
