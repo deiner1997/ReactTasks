@@ -19,7 +19,7 @@
     "react-scripts": "^1.1.4",
     "react-validation": "^3.0.7",
     "reactstrap": "^6.4.0",
-    "validator": "^10.5.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
